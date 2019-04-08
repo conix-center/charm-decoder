@@ -6,7 +6,7 @@ Code repository at https://github.com/WiseLabCMU/charm-decoder
 
 # Publication 
 
-This work is documented by SRC publication [P093121](https://www.src.org/library/publication/p093121/p093121.pdf#search=charm). 
+This work is documented by SRC publication [P093121](https://www.src.org/library/publication/p093121/p093121.pdf). 
 
 ```
 Adwait Dongare, Revathy Narayanan, Akshay Gadre, Anh Luong, Artur Balanuta, Swarun Kumar, Bob Iannucci, and Anthony Rowe. 2018. 
