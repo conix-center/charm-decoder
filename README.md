@@ -1,7 +1,8 @@
 # charm-decoder
 Charm coherent combining decoder for LoRa packets.
 
-This repository is for the sake of collecting source code created in CONIX in a single location. It is a link to https://github.com/WiseLabCMU/charm-decoder
+This is for the sake of collecting source code created in CONIX to a single location. 
+Code repository at https://github.com/WiseLabCMU/charm-decoder
 
 # Publication 
 
